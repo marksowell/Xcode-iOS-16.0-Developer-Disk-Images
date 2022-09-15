@@ -9,4 +9,4 @@ If you are using [libimobiledevice](https://github.com/libimobiledevice/libimobi
 
 Enable Developer Mode go to Settings > Privacy & Security on the iOS device. Scroll down to the Developer Mode list item and navigate into it. To toggle Developer mode, use the “Developer Mode” switch.
 
-<img align="left" src="developer-mode-03_dark@2x.png" />
+<img align="center" width="200" src="developer-mode-03_dark@2x.png" />
